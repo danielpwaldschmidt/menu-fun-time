@@ -5,7 +5,7 @@ var db = require('mysql-promise')();
 db.configure({
 	"host": "localhost",
 	"user": "root",
-	"password": "int3grity",
+	"password": "password",
 	"database": "menu"
 });
 
